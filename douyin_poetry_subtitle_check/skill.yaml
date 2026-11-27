@@ -1,0 +1,5 @@
+name: douyin_poetry_subtitle_check
+title: Douyin Poetry Subtitle and Corrected Render Check
+description: Verify narration and subtitles align line by line and deliver a corrected render under a new filename before a Douyin poetry video goes out.
+category: Media
+include_in_prompt: false

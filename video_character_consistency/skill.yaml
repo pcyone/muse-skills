@@ -1,0 +1,5 @@
+name: video_character_consistency
+title: Video Character Consistency
+description: Keep the same character across Muse video clips by reusing one identity frame and one description block, and use it when generating or iterating a video series.
+category: Media
+include_in_prompt: false
